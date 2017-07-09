@@ -1,0 +1,124 @@
+*{box-sizing: border-box;}
+body{height: 100%;
+	width: 100%;
+}
+
+
+
+.Image {
+	margin-bottom: 20px;
+}
+
+
+#A_centrer {
+	position: absolute;
+	top: 25%;
+	left: 39%;
+}
+
+
+
+#A_centrer2 {
+	position: absolute;
+	top: 45%;
+	left: 30%;
+}
+
+
+
+#A_centrer3 {
+	position: absolute;
+	top: 51%;
+	left: 40%;
+}
+
+
+#SearchBar {
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+
+
+#Advertising {
+	position: absolute;
+	top: 1000px;
+	left: 20px;
+}
+
+
+
+
+#Business {
+	position: absolute;
+	top: 1000px;
+	left: 150px;
+}
+
+
+
+
+#About {
+	position: absolute;
+	top: 1000px;
+	left: 250px;
+}
+
+
+
+
+#Privacy {
+	position: absolute;
+	top: 1000px;
+	left: 1125px;
+}
+
+
+
+
+#Terms {
+	position: absolute;
+	top: 1000px;
+	left: 1210px;
+}
+
+
+
+
+
+#Settings {
+	position: absolute;
+	top: 1000px;
+	left: 1275px;
+}
+
+
+
+
+
+
+
+
+/*#Bas {
+	border: 1px solid grey;
+	position: absolute;
+	width: 100%;
+	top: 1000px;
+	background-color: rgb(224, 224, 224);
+	height: 40px;
+}*/
+
+
+
+/*#SearchBar {
+	margin-bottom: 10px;
+	width: 600px;
+	border: 1px solid grey;
+	border-radius: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+*/
